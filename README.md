@@ -52,7 +52,7 @@
 <!--   GitHub stats graph -->
 <h1 align="center">📈 GitHub Activity Graph: 📊</h1>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aragrygorian)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aragrygorian&bg_color=000000&color=ffffff&line=213d3f&point=f5fffd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  &nbsp; | &nbsp;
 --- | --- 
 ![github stats](https://github-readme-stats.vercel.app/api?username=aragrygorian&show_icons=true&theme=github_dark&include_all_commits=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aragrygorian&theme=github_dark&layout=compact)
