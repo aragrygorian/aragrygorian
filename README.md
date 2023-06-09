@@ -52,19 +52,19 @@
 <!--   GitHub stats graph -->
 <h1 align="center">📈 GitHub Activity Graph: 📊</h1>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pavlotopdev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aragrygorian&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  &nbsp; | &nbsp;
 --- | --- 
-![github stats](https://github-readme-stats.vercel.app/api?username=pavlotopdev&show_icons=true&theme=github_dark&include_all_commits=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pavlotopdev&theme=github_dark&layout=compact)
+![github stats](https://github-readme-stats.vercel.app/api?username=aragrygorian&show_icons=true&theme=github_dark&include_all_commits=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aragrygorian&theme=github_dark&layout=compact)
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pavlotopdev&theme=dark&date_format=j%2Fn%5B%2FY%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aragrygorian&theme=dark&date_format=j%2Fn%5B%2FY%5D" />
 </p>
 
 
 ## Git profile Trophies
 <p> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavlotopdev&layout=compact&theme=algolia" alt="trophy" width="700px"/></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aragrygorian&layout=compact&theme=algolia" alt="trophy" width="700px"/></a> 
 </p>
 
 <p>
